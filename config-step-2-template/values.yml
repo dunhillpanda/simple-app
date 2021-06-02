@@ -3,3 +3,5 @@
 svc_port: 80
 app_port: 80
 hello_msg: stranger
+ns: mduser019
+image: registry.lab.livefire.dev/mduser019/simple-app@sha256:4c8b96d4fffdfae29258d94a22ae4ad1fe36139d47288b8960d9958d1e63a9d0
